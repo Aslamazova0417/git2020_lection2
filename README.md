@@ -11,3 +11,4 @@
 
 текст продолжается
 
+[Ссылка на репрозиторий](https://github.com/Aslamazova0417/git2020_lection2/blob/main/README.md)
